@@ -17,7 +17,4 @@ Spent some time making the UI work across multiple phone resolutions by playing 
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](anim_rotten_tomatoes.gif)
-
-GIF created with 
 <a href="http://imgur.com/zCvNcg5"><img src="http://i.imgur.com/zCvNcg5.gif" title="source: imgur.com" /></a>
